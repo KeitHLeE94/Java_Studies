@@ -1,7 +1,5 @@
-# SSAFY_Studies
-SSAFY에서 공부한 내용들 정리
-
-주차별 폴더 만들어서 올릴 예정
+# Java_Studies
+Java 다시 공부하여 정리할 repository
 
 <hr>
 
